@@ -1,4 +1,4 @@
-package sec02.prac09;
+package sec02.verify.exam09;
 
 import java.util.Scanner;
 
