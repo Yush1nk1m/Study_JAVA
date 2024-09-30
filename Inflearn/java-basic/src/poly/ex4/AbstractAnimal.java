@@ -1,4 +1,6 @@
 package poly.ex4;
 
-public class AbstractAnimal {
+public abstract class AbstractAnimal {
+    public abstract void sound();
+    public abstract void move();
 }
